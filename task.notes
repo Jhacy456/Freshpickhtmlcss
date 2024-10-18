@@ -1,0 +1,10 @@
+<div class="hero-container">
+        <section class="hero">
+            <div class="hero-container">
+             <h1>Fresh from the earth, to your table</h1>
+            <p>Organic fruits, vegetables, and lot more to your door.</p>
+            <button>Learn More</button>
+            </div> 
+        </section>
+       
+    </div>
